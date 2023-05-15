@@ -7,3 +7,7 @@
 /Backend/WebAPI/TestDatabase.db
 /Backend/WebAPI/TestDatabase-log.db
 /Backend/WebAPI/TestDatabase.db
+/Front/node_modules/
+Backend/.vs/WebAPI/DesignTimeBuild/
+Backend/Domain/bin/Debug/
+Backend/Infrastructure/bin/Debug/

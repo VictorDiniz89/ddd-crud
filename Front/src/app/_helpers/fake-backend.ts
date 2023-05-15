@@ -114,6 +114,7 @@ export class FakeBackendInterceptor implements HttpInterceptor {
         }
 
         function idFromUrl() {
+            console.log('id from url: ', url)
             const urlParts = url?.split('/') || [];
             return parseInt(urlParts[urlParts.length - 1]);
         }
