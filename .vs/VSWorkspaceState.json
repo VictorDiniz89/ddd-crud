@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\Infrastructure",
+    "\\Backend\\Infrastructure\\Database",
+    "\\Backend\\WebAPI",
+    "\\Backend\\WebAPI\\.config",
+    "\\Backend\\WebAPI\\Controllers",
+    "\\Backend\\WebAPI\\obj",
+    "\\Backend\\WebAPI\\Properties",
+    "\\Backend\\WebAPI\\Services"
+  ],
+  "SelectedNode": "\\Backend\\WebAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
